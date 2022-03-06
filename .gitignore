@@ -1,4 +1,4 @@
-/*
+
 /config/*
 !/config/formats.ts
 /logs/*
@@ -68,4 +68,4 @@ local_settings.py
 pip-log.txt
 # redis dumps
 *.rdb
-*/
+
